@@ -51,5 +51,17 @@ EuroPython 2025の名札
 ```
 
 ````{admonition} コラム：スピーカーディナー
-(こうだいさんに書いて欲しい)
+このコラムは青野 高大([@koxudaxi](https://github.com/koxudaxi))がお届けします。
+
+EuroPython 2025の前日19:30、ヴルタヴァ川沿いの Mánes Restaurant でスピーカーディナーが行われました（スピーカー限定）。私は去年も参加しており、当時の様子は[昨年のコラム](https://gihyo.jp/article/2024/08/europython2024?#gh7iaq5CSJ)にまとめています。参加者はヨーロッパを中心に、CPythonのコア開発者やOSSのメンテナが多かったです。
+
+ディナーは立食形式でした。テーブルを移動して、さまざまな人と話しました。その中で **Sebastián Ramírez** さん（FastAPI 作者）と **Patrick Arminio** さん（Strawberry GraphQL 作者）に、今回初めて直接お会いしました（これまでは GitHub 上でのやり取り）。少し昔話を交えつつ、最近の Web 開発について意見交換しました。Sebastián さんは PyCon JP 2025 のキーノート予定でもあり、ここでご挨拶できてよかったです。
+
+途中で Łukasz Langa さん（CPythonコア開発者／Python 3.8・3.9リリースマネージャー）が合流し、しばらく雑談をしました。この場では技術の話はせず、主に近況やプライベートの話題でした。スプリント（Day 4）では、Łukaszさんに技術的な相談ができました。スピーカーディナーは、こうした対面のやり取りが次につながる有用な場だと改めて感じました。
+
+```{figure} images/speakers-dinner.jpg
+:width: 400
+
+Speaker Dinnerの会場（Mánes Restaurant）
+```
 ````
